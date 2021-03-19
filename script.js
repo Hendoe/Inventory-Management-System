@@ -12,3 +12,5 @@ class Item {
     return this._quantity;
   };
 };
+
+//Return to Codecademy's JavaScript Lesson on Classes for more ideas
